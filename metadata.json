@@ -1,0 +1,6 @@
+{
+  "name": "Math City: The Lost Price",
+  "description": "Petualangan detektif matematika 3D open-world bergaya Roblox untuk memecahkan misteri hilangnya label harga dengan Sistem Persamaan Linear Dua Variabel (SPLDV).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
